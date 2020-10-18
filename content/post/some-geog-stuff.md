@@ -1,6 +1,6 @@
 +++
 authors = []
-date = 2020-10-17T23:00:00Z
+date = 2020-10-15T23:00:00Z
 excerpt = "Whitty qoute in here"
 hero = "/images/geog.jpg"
 timeToRead = 5
