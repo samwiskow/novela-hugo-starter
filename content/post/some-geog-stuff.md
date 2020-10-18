@@ -2,7 +2,7 @@
 authors = []
 date = 2020-10-15T23:00:00Z
 excerpt = "Whitty qoute in here"
-hero = "/images/geog.jpg"
+hero = "/images/geog-1.jpg"
 timeToRead = 5
 title = "Some Geog Stuff"
 
