@@ -1,12 +1,14 @@
-+++
-authors = ["KDubbz"]
-date = 2020-10-15T23:00:00Z
-excerpt = "Something clever"
-hero = "/images/geog.jpg"
-timeToRead = 2
-title = "Test this"
+---
+title: Test this
+date: 2018-10-15
+hero: /images/geog.jpg
+excerpt: something clever
+timeToRead: 3
+authors:
+  - Kate Jenkinson
 
-+++
+---
+
 # Some Title
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pulvinar lectus justo, ut pretium urna tincidunt ac. Ut tincidunt sapien sit amet feugiat eleifend. Nunc at orci id velit blandit porta. Etiam rutrum eleifend massa, non pretium orci pellentesque et. Donec magna ipsum, condimentum eu rhoncus sed, vehicula in ipsum. Suspendisse non commodo est. Suspendisse vehicula, neque in condimentum suscipit, arcu turpis aliquam nisl, ac varius lacus risus congue velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus nec congue ex. Quisque pharetra scelerisque massa, quis varius justo aliquam quis. Fusce vitae mollis tortor, a rhoncus nisl.
