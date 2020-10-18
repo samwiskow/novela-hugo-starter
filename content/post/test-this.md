@@ -1,6 +1,6 @@
 ---
 title: Test this
-date: 2018-10-15
+date: 2020-10-13T23:00:00+00:00
 hero: "/images/geog-1.jpg"
 excerpt: something clever
 timeToRead: 3
