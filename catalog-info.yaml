@@ -8,6 +8,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner:
-    kind: Group
-    name: aegis-imports/pet-managers
+  owner: samwiskow
