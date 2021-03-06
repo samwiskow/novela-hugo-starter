@@ -4,6 +4,9 @@ kind: Component
 metadata:
   name: novela-hugo-starter
   description: This is a starter app for a hugo theme
+
+annotations:
+  github.com/project-slug: samwiskow/novela-hugo-starter
 spec:
   type: service
   lifecycle: experimental
